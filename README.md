@@ -26,5 +26,5 @@ pip install -r requirements.txt
 
 python main.py
 ```
-
+json files  must be in root directory in folder named - abi
 
